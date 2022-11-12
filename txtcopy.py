@@ -1,9 +1,4 @@
 #read in two .txt file paths, copy contents of file A to contents of file B
-#utilize hex editor for testing purposes
-#do NOT depend on file extension; manually capture file signature
-
-#COPY FILE: C:\Users\foots\python\Dependencies\targetfolder\quick_revive.txt
-#TARGET FILE: C:\Users\foots\python\Dependencies\targetfolder\targetfile.txt
 
 
 #read in/verify file paths as input, pass to copy function
